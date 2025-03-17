@@ -1,0 +1,10 @@
+flask 
+flask-cors 
+flask-socketio 
+yfinance 
+pandas 
+numpy 
+scikit-learn 
+statsmodels 
+prophet 
+tensorflow
